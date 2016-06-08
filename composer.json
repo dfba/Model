@@ -1,0 +1,16 @@
+{
+    "name": "dfba/exteloquent",
+    "description": "Extend Eloquent's extensibility.",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dave Bakker",
+            "email": "dfba@davebakker.io"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Dfba\\Exteloquent\\": "src/"
+        }
+    }
+}
