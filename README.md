@@ -1,2 +1,2 @@
-# Model
+# Exteloquent
 Extend Eloquent's extensibility.
